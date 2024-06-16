@@ -1,0 +1,6 @@
+<resources>
+    <style name="ShapeAppearanceOverlay.App.RoundedImage" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item> <!-- Adjust the radius as needed -->
+    </style>
+</resources>
